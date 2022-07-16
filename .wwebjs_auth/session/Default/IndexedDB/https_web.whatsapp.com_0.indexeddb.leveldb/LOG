@@ -1,0 +1,22 @@
+2022/07/16-16:34:43.746 562c Reusing MANIFEST E:\RUCHIR\Web Development\Whatsapp_Automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/16-16:34:43.747 562c Recovering log #144
+2022/07/16-16:34:43.941 562c Reusing old log E:\RUCHIR\Web Development\Whatsapp_Automation\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000144.log 
+2022/07/16-16:35:01.746 562c Level-0 table #154: started
+2022/07/16-16:35:01.809 562c Level-0 table #154: 1170098 bytes OK
+2022/07/16-16:35:01.821 562c Delete type=0 #144
+2022/07/16-16:35:01.893 562c Compacting 1@1 + 6@2 files
+2022/07/16-16:35:02.001 562c Generated table #155@1: 37986 keys, 2283058 bytes
+2022/07/16-16:35:02.081 562c Generated table #156@1: 12332 keys, 2172943 bytes
+2022/07/16-16:35:02.453 562c Generated table #157@1: 3967 keys, 2164484 bytes
+2022/07/16-16:35:02.571 562c Generated table #158@1: 28050 keys, 2256335 bytes
+2022/07/16-16:35:02.714 562c Generated table #159@1: 43790 keys, 2190964 bytes
+2022/07/16-16:35:02.809 562c Generated table #160@1: 74407 keys, 1680664 bytes
+2022/07/16-16:35:02.809 562c Compacted 1@1 + 6@2 files => 12748448 bytes
+2022/07/16-16:35:02.821 562c compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/07/16-16:35:02.821 562c Delete type=2 #146
+2022/07/16-16:35:02.821 562c Delete type=2 #147
+2022/07/16-16:35:02.821 562c Delete type=2 #148
+2022/07/16-16:35:02.821 562c Delete type=2 #149
+2022/07/16-16:35:02.821 562c Delete type=2 #150
+2022/07/16-16:35:02.821 562c Delete type=2 #151
+2022/07/16-16:35:02.821 562c Delete type=2 #154
